@@ -1,11 +1,7 @@
-MMMAPIicrosoftms
-Microsoftmsicrosoftmsicrosoftmsicrosoftmsms meeting
-Join: https://teams.microsoft.com/meet/49458741297554?p=fUmbiaBPZhnaZFcHff
-Meeting ID: 494 587 412 975 54
-Passcode: S378fdI
-https://careers.ibm.com/careers/Searchjobs?jobId=107112
-I
-# Order Processing Service
+rrrrrrd2tj6XN6qatrderderderderderder Order Processing ServiceMicrosoft Teams meeting
+Join: https://teams.microsoft.com/meet/282824360203119?p=Hfs91B2QGfGu7DT3v6
+Meeting ID: 282 824 360 203 119
+Passcode: 2tj6XN6q
 
 .NET 8 Web API that manages orders with **MongoDB** persistence, **Redis** caching for read-heavy endpoints, **RabbitMQ** events when orders are created, and **Docker Compose** for one-command startup.
 
