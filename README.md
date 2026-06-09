@@ -1,6 +1,3 @@
-To start the interview, please click here Meeting Url <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWJiYmQxMmUtNDhhMy00Y2JiLWE4ZDctYmJlM2FiYmIyNTEx%40thread.v2/0?context=%7b%22Tid%22%3a%22edf442f5-b994-4c86-a131-b42b03a16c95%22%2c%22Oid%22%3a%22997eaa50-24b6-43a5-b386-ecbbded223eb%22%7d> 
-
-
 .NET 8 Web API that manages orders with **MongoDB** persistence, **Redis** caching for read-heavy endpoints, **RabbitMQ** events when orders are created, and **Docker Compose** for one-command startup.
 
 ## Prerequisites
